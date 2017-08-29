@@ -4,6 +4,6 @@ name: go-tournament
 templates:
  ctl.sh: bin/ctl.sh
 
-packages: []
+packages: 
+ - go-tournament
 
-properties: {}
